@@ -1,3 +1,5 @@
+This is Allure's fork of the Slate documentation generator. We use it to build customer-facing API docs. Below is the standard Slate README.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/lord/img/master/logo-slate.png" alt="Slate: API Documentation Generator" width="226">
   <br>
